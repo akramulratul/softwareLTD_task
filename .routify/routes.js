@@ -72,7 +72,7 @@ export const _tree = {
       },
       "path": "/layout",
       "id": "_layout",
-      "component": () => import('../src/pages/layout.svelte').then(m => m.default)
+      "component": () => import('../src/pages/chart.svelte').then(m => m.default)
     }
   ],
   "isLayout": false,
