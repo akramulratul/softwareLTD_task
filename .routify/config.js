@@ -8,11 +8,12 @@ module.exports = {
   "noHashScroll": false,
   "distDir": "dist",
   "hashScroll": true,
+  "childProcess": "my-server",
   "extensions": [
     "html",
     "svelte",
     "md",
     "svx"
   ],
-  "started": "2023-09-03T15:54:44.841Z"
+  "started": "2023-09-03T21:59:34.452Z"
 }
