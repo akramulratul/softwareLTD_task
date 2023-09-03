@@ -1,10 +1,13 @@
 <script>
   import TailwindCss from './lib/TailwindCSS.svelte';
+  import { Router } from "@roxi/routify";
+  import { routes } from "../.routify/routes";
 </script>
 <TailwindCss/>
-<main>
+<Router {routes}/>
+<!-- <main>
   <p class="underline decoration-wavy ">The quick brown fox...</p>
-</main>
+</main> -->
 
 <style>
 
