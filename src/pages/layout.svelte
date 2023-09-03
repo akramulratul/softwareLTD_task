@@ -1,5 +1,6 @@
 <script>
   import Mountain from "../Components/Mountain.svelte";
+  import OpenLayerMap from "../Components/OpenLayerMap.svelte";
 
 </script>
 <div class="overflow-hidden">

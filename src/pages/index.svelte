@@ -1,4 +1,6 @@
 <script>
-
-</script>
-<h1>It's index page</h1>
+    import OpenLayerMap from '../Components/OpenLayerMap.svelte';
+  </script>
+  
+  <OpenLayerMap />
+  
